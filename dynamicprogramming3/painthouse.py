@@ -1,3 +1,6 @@
+
+#TC: O(n)
+#SC: O(1)
 class Solution(object):
     def minCost(self,costs):
     #iterate through reverser and store value at each step ,from len -2 because we are starting it from before row
