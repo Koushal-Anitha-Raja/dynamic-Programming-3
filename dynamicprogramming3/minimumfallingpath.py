@@ -1,3 +1,5 @@
+#TC: O(n)
+#SC: O(1)
 class Solution:
     def minFallingPathSum(self, matrix: List[List[int]]) -> int:
         #iterating the matrix using loop and considering the the iteration from second row
